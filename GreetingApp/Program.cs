@@ -13,7 +13,7 @@ firstName = Console.ReadLine();
 
 // Greet user by name
 Console.WriteLine();
-Console.WriteLine($"hello {firstName}");
+Console.WriteLine($"Hello {firstName}");
 
 Console.WriteLine("Thank you for using my application.");
 Console.ReadLine();
